@@ -1,14 +1,18 @@
 <div align="middle">
 <img src="https://github.com/JoshuaAEby/JoshuaAEby/assets/162149706/f920e805-73da-4706-9f42-4e4e2eb0fb47" alt="image" width="800">
 </div>
-<div id="badges";  align="middle">
-  <a href="[LinkedIn Profile](https://www.linkedin.com/in/joshua-eby-02bb622b7/)">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/joshua-eby-02bb622b7/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[InspireHEP Profile](https://inspirehep.net/authors/1497168?ui-citation-summary=true)">
-  <img src="https://img.shields.io/badge/InspireHEP-red?style=for-the-badge&logoColor=white" alt="Inspire-HEP Badge"/>
+  <a href="https://inspirehep.net/authors/1497168?ui-citation-summary=true" target="_blank">
+    <img src="https://img.shields.io/badge/InspireHEP-red?style=for-the-badge&logoColor=white" alt="Inspire-HEP Badge"/>
+  </a>
+  <a href="https://scholar.google.com/citations?hl=en&user=_VcEY4wAAAAJ" target="_blank">
+    <img src="https://img.shields.io/badge/Google_Scholar-green?style=for-the-badge&logoColor=white" alt="Google Scholar Badge"/>
   </a>
 </div>
+
 
 ### Nice to meet you, I'm Josh!
 
